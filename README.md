@@ -2,7 +2,6 @@
 
 E-commerce project using **GraphQL** with stack: NestJS - ReactJS(NextJS) - MongoDB
 
->(Client is working in progress...)
 ## Technologies
 
 - Backend
